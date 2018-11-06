@@ -1,7 +1,7 @@
 Hi I am learning git
-I am in branch2
-I am again in branch2
-hello2
-new hello3
-pp
-gg
+I am in branch1
+I am again in branch1
+hello1
+new hello2
+oo
+ii
